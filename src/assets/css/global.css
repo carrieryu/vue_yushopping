@@ -1,0 +1,33 @@
+/*全局样式表*/
+html,body,#app{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    min-width: 1388px;
+}
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size:0.85em;
+}
+.el-table{
+    margin-top: 15px;
+    font-size: 0.9em;
+}
+.el-pagination{
+    margin-top: 20px;
+}
+.el-cascader-menu {
+    height: 300px;
+  }
+  .el-steps{
+      margin: 15px 50px;
+  }
+  .el-step__title{
+      font-size: 12px;
+  }
+  .el-cascader{
+      width: 300px;
+  }
+  .ql-editor{
+      min-height: 420px;
+  }
